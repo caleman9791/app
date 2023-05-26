@@ -385,7 +385,7 @@
 								</span>
 							</a>
 						</li>
-						<!--   
+						<!--
 						<li class="nav-item">
 						<a class="nav-link" href="./chart.html">
 						<span class="icon-bg">
@@ -396,7 +396,7 @@
 						Charts
 						</span>
 						</a>
-						</li> 
+						</li>
 						-->
 						<li class="nav-item">
 							<a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
@@ -415,7 +415,7 @@
 											Diagramas de barra
 										</a>
 									</li>
-									<!--   
+									<!--
 									<li class="nav-item">
 									<a class="nav-link" href="./pages/ui-features/dropdowns.html">
 									Dropdowns
@@ -425,7 +425,7 @@
 									<a class="nav-link" href="./pages/ui-features/typography.html">
 									Typography
 									</a>
-									</li> 
+									</li>
 									-->
 								</ul>
 							</div>
@@ -608,10 +608,10 @@
 		<script src="./assets/js/off-canvas.js"></script>
 		<script src="./assets/js/hoverable-collapse.js"></script>
 		<script src="./assets/js/misc.js"></script>
-		<script src="./js/cooke/cooke.js"></script>
+	<!-- 	<script src="./js/cooke/cooke.js"></script>
 		<script src="./js/LocalDB/LocalDB.js">
 		</script>
-		<script src="./js/index/index.js"></script>
+		<script src="./js/index/index.js"></script> -->
 		<!-- 	<script src="./js/code/js.js">
 			</script> -->
 		<!-- endinject -->
