@@ -1271,11 +1271,11 @@
 		<script src="./assets/js/off-canvas.js"></script>
 		<script src="./assets/js/hoverable-collapse.js"></script>
 		<script src="./assets/js/misc.js"></script>
-		<script src="./js/cooke/cooke.js"></script>
+<!-- 		<script src="./js/cooke/cooke.js"></script>
 		<script src="./js/LocalDB/LocalDB.js">
 		</script>
 		<script src="./js/botones/main.js">
-		</script>
+		</script> -->
 		<!-- endinject -->
 	</body>
 </html>

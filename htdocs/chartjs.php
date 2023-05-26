@@ -637,8 +637,8 @@
     <!-- endinject -->
     <!-- Custom js for this page -->
     <script src="./assets/js/chart.js"></script>
-    <script src="./js/js.js">
-        </script>
+<!--     <script src="./js/js.js">
+        </script> -->
     <!-- End custom js for this page -->
   </body>
 </html>

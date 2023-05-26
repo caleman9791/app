@@ -571,8 +571,8 @@
 		<script src="./assets/js/hoverable-collapse.js"></script>
 		<script src="./assets/js/misc.js"></script>
 		<!-- <script src="https://cdn.jsdelivr.net/npm/chart.js@4.3.0/dist/chart.umd.min.js"></script> -->
-		<script src="./js/chart_linea.js">
-		</script>
+		<!-- <script src="./js/chart_linea.js">
+		</script> -->
 		<!-- endinject -->
 		<!-- Custom js for this page -->
 		<!-- End custom js for this page -->

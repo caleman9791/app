@@ -18,8 +18,8 @@
 		<!-- endinject -->
 		<!-- Layout styles -->
 		<link rel="stylesheet" href="./assets/css/style.css"/>
-		<link rel="stylesheet" href="./css/w3css.css"/>
-		<link rel="stylesheet" href="./css/css.css"/>
+<!-- 		<link rel="stylesheet" href="./css/w3css.css"/>
+		<link rel="stylesheet" href="./css/css.css"/> -->
 		<!-- End layout styles -->
 		<link rel="shortcut icon" href="./assets/images/favicon.png"/>
 		<!-- @caleman9791 -->

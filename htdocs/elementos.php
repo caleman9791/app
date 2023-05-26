@@ -771,8 +771,8 @@
     <script src="./assets/js/file-upload.js"></script>
     <script src="./assets/js/typeahead.js"></script>
     <script src="./assets/js/select2.js"></script>
-    <script src="./js/js.js">
-        </script>
+  <!--   <script src="./js/js.js">
+        </script> -->
     <!-- End custom js for this page -->
   </body>
 </html>

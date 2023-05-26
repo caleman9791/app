@@ -573,10 +573,10 @@
 		<script src="./assets/js/off-canvas.js"></script>
 		<script src="./assets/js/hoverable-collapse.js"></script>
 		<script src="./assets/js/misc.js"></script>
-		<script src="./js/chart_barra.js">
+<!-- 		<script src="./js/chart_barra.js">
 		</script>
 		<script src="./js/js.js">
-		</script>
+		</script> -->
 		<!-- endinject -->
 		<!-- Custom js for this page -->
 		<!-- End custom js for this page -->
