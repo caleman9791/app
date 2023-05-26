@@ -39,13 +39,13 @@
 	</head>
 	<body>
 		<div class="container-scroller">
-			<!-- partial:./partials/_navbar.html -->
+			<!-- partial:./partials/_navbar.php -->
 			<nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
 				<div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-					<a class="navbar-brand brand-logo" href="./index.html">
+					<a class="navbar-brand brand-logo" href="./index.php">
 						<img src="./assets/images/logo.svg" alt="logo"/>
 					</a>
-					<a class="navbar-brand brand-logo-mini" href="./index.html">
+					<a class="navbar-brand brand-logo-mini" href="./index.php">
 						<img src="./assets/images/logo-mini.svg" alt="logo"/>
 					</a>
 				</div>
@@ -330,14 +330,14 @@
 			</nav>
 			<!-- partial -->
 			<div class="container-fluid page-body-wrapper">
-				<!-- partial:./partials/_sidebar.html -->
+				<!-- partial:./partials/_sidebar.php -->
 				<nav class="sidebar sidebar-offcanvas" id="sidebar">
 					<ul class="nav">
 						<li class="nav-item nav-category">
 							Main
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="./index.html">
+							<a class="nav-link" href="./index.php">
 								<span class="icon-bg">
 									<i class="mdi mdi-cube menu-icon"></i>
 								</span>
@@ -359,17 +359,17 @@
 							<div class="collapse" id="ui-basic">
 								<ul class="nav flex-column sub-menu">
 									<li class="nav-item">
-										<a class="nav-link" href="./pages/ui-features/buttons.html">
+										<a class="nav-link" href="./pages/ui-features/buttons.php">
 											Buttons
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./pages/ui-features/dropdowns.html">
+										<a class="nav-link" href="./pages/ui-features/dropdowns.php">
 											Dropdowns
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./pages/ui-features/typography.html">
+										<a class="nav-link" href="./pages/ui-features/typography.php">
 											Typography
 										</a>
 									</li>
@@ -377,7 +377,7 @@
 							</div>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="./pages/icons/mdi.html">
+							<a class="nav-link" href="./pages/icons/mdi.php">
 								<span class="icon-bg">
 									<i class="mdi mdi-contacts menu-icon"></i>
 								</span>
@@ -387,7 +387,7 @@
 							</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="./pages/forms/basic_elements.html">
+							<a class="nav-link" href="./pages/forms/basic_elements.php">
 								<span class="icon-bg">
 									<i class="mdi mdi-format-list-bulleted menu-icon"></i>
 								</span>
@@ -397,7 +397,7 @@
 							</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="./pages/charts/chartjs.html">
+							<a class="nav-link" href="./pages/charts/chartjs.php">
 								<span class="icon-bg">
 									<i class="mdi mdi-chart-bar menu-icon"></i>
 								</span>
@@ -407,7 +407,7 @@
 							</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="./pages/tables/basic-table.html">
+							<a class="nav-link" href="./pages/tables/basic-table.php">
 								<span class="icon-bg">
 									<i class="mdi mdi-table-large menu-icon"></i>
 								</span>
@@ -429,27 +429,27 @@
 							<div class="collapse" id="auth">
 								<ul class="nav flex-column sub-menu">
 									<li class="nav-item">
-										<a class="nav-link" href="./pages/samples/blank-page.html">
+										<a class="nav-link" href="./pages/samples/blank-page.php">
 											Blank Page
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./pages/samples/login.html">
+										<a class="nav-link" href="./pages/samples/login.php">
 											Login
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./pages/samples/register.html">
+										<a class="nav-link" href="./pages/samples/register.php">
 											Register
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./pages/samples/error-404.html">
+										<a class="nav-link" href="./pages/samples/error-404.php">
 											404
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./pages/samples/error-500.html">
+										<a class="nav-link" href="./pages/samples/error-500.php">
 											500
 										</a>
 									</li>
@@ -457,7 +457,7 @@
 							</div>
 						</li>
 						<li class="nav-item documentation-link">
-							<a class="nav-link" href="http://www.bootstrapdash.com/demo/connect-plus-free/jquery/documentation/documentation.html" target="_blank">
+							<a class="nav-link" href="http://www.bootstrapdash.com/demo/connect-plus-free/jquery/documentation/documentation.php" target="_blank">
 								<span class="icon-bg">
 									<i class="mdi mdi-file-document-box menu-icon"></i>
 								</span>
@@ -536,7 +536,7 @@
 						<!-- /.w3-container -->
 					</div>
 					<!-- content-wrapper ends -->
-					<!-- partial:./partials/_footer.html -->
+					<!-- partial:./partials/_footer.php -->
 					<footer class="footer">
 						<div class="footer-inner-wraper">
 							<div class="d-sm-flex justify-content-center justify-content-sm-between py-2">

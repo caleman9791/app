@@ -85,13 +85,13 @@
 										</div>
 									</div>
 									<div class="mt-3">
-										<a id="registrar" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn" href="./index.html">
+										<a id="registrar" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn" href="./index.php">
 											SIGN UP
 										</a>
 									</div>
 									<div class="text-center mt-4 font-weight-light">
 										Already have an account?
-										<a href="inicio.html" class="text-primary">
+										<a href="inicio.php" class="text-primary">
 											Login
 										</a>
 									</div>

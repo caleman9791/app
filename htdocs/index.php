@@ -28,13 +28,13 @@
 	</head>
 	<body>
 		<div class="container-scroller">
-			<!-- partial:./partials/_navbar.html -->
+			<!-- partial:./partials/_navbar.php -->
 			<nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
 				<div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-					<a class="navbar-brand brand-logo" href="./index.html">
+					<a class="navbar-brand brand-logo" href="./index.php">
 						<img src="./assets/images/logo.svg" alt="logo"/>
 					</a>
-					<a class="navbar-brand brand-logo-mini" href="./index.html">
+					<a class="navbar-brand brand-logo-mini" href="./index.php">
 						<img src="./assets/images/logo-mini.svg" alt="logo"/>
 					</a>
 				</div>
@@ -319,14 +319,14 @@
 			</nav>
 			<!-- partial -->
 			<div class="container-fluid page-body-wrapper">
-				<!-- partial:./partials/_sidebar.html -->
+				<!-- partial:./partials/_sidebar.php -->
 				<nav class="sidebar sidebar-offcanvas" id="sidebar">
 					<ul class="nav">
 						<li class="nav-item nav-category">
 							Inicio
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="./index.html">
+							<a class="nav-link" href="./index.php">
 								<span class="icon-bg">
 									<i class="mdi mdi-cube menu-icon"></i>
 								</span>
@@ -348,17 +348,17 @@
 							<div class="collapse code_caja_dropdown1" id="ui-basic1">
 								<ul class="nav flex-column sub-menu">
 									<li class="nav-item">
-										<a class="nav-link" href="./botones.html">
+										<a class="nav-link" href="./botones.php">
 											Botones
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./desplegables.html">
+										<a class="nav-link" href="./desplegables.php">
 											Desplegables
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./tipografia.html">
+										<a class="nav-link" href="./tipografia.php">
 											Tipografía
 										</a>
 									</li>
@@ -366,7 +366,7 @@
 							</div>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="./iconos.html">
+							<a class="nav-link" href="./iconos.php">
 								<span class="icon-bg">
 									<i class="mdi mdi-contacts menu-icon"></i>
 								</span>
@@ -376,7 +376,7 @@
 							</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="./elementos.html">
+							<a class="nav-link" href="./elementos.php">
 								<span class="icon-bg">
 									<i class="mdi mdi-format-list-bulleted menu-icon"></i>
 								</span>
@@ -387,7 +387,7 @@
 						</li>
 						<!--
 						<li class="nav-item">
-						<a class="nav-link" href="./chart.html">
+						<a class="nav-link" href="./chart.php">
 						<span class="icon-bg">
 						<i class="mdi mdi-chart-bar menu-icon">
 						</i>
@@ -411,18 +411,18 @@
 							<div class="collapse" id="ui-basic">
 								<ul class="nav flex-column sub-menu">
 									<li class="nav-item">
-										<a class="nav-link" href="./diagrama_barra.html">
+										<a class="nav-link" href="./diagrama_barra.php">
 											Diagramas de barra
 										</a>
 									</li>
 									<!--
 									<li class="nav-item">
-									<a class="nav-link" href="./pages/ui-features/dropdowns.html">
+									<a class="nav-link" href="./pages/ui-features/dropdowns.php">
 									Dropdowns
 									</a>
 									</li>
 									<li class="nav-item">
-									<a class="nav-link" href="./pages/ui-features/typography.html">
+									<a class="nav-link" href="./pages/ui-features/typography.php">
 									Typography
 									</a>
 									</li>
@@ -431,7 +431,7 @@
 							</div>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="./tablas.html">
+							<a class="nav-link" href="./tablas.php">
 								<span class="icon-bg">
 									<i class="mdi mdi-table-large menu-icon"></i>
 								</span>
@@ -453,27 +453,27 @@
 							<div class="collapse" id="auth">
 								<ul class="nav flex-column sub-menu">
 									<li class="nav-item">
-										<a class="nav-link" href="./vacia.html">
+										<a class="nav-link" href="./vacia.php">
 											Pagina en blanco
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./Inicio.html">
+										<a class="nav-link" href="./Inicio.php">
 											Inicio de sesión
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./registro.html">
+										<a class="nav-link" href="./registro.php">
 											Registro
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./error_404.html">
+										<a class="nav-link" href="./error_404.php">
 											Error 404
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="./error_500.html">
+										<a class="nav-link" href="./error_500.php">
 											Error 500
 										</a>
 									</li>
@@ -481,7 +481,7 @@
 							</div>
 						</li>
 						<!-- 		<li class="nav-item documentation-link">
-									<a class="nav-link" href="http://www.bootstrapdash.com/demo/connect-plus-free/jquery/documentation/documentation.html" target="_blank">
+									<a class="nav-link" href="http://www.bootstrapdash.com/demo/connect-plus-free/jquery/documentation/documentation.php" target="_blank">
 										<span class="icon-bg">
 											<i class="mdi mdi-file-document-box menu-icon"></i>
 										</span>
@@ -570,7 +570,7 @@
 						<!-- /.w3-container -->
 					</div>
 					<!-- content-wrapper ends -->
-					<!-- partial:./partials/_footer.html -->
+					<!-- partial:./partials/_footer.php -->
 					<footer class="footer">
 						<div class="footer-inner-wraper">
 							<div class="d-sm-flex justify-content-center justify-content-sm-between py-2">
